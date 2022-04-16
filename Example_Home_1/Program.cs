@@ -9,4 +9,4 @@ if (a > b)
     else
     {
     Console.WriteLine(max = b);
-    }
+}
