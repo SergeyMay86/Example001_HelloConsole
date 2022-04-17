@@ -4,6 +4,6 @@
 // 918 -> 1
 
 
-int number=698;
+int number=857;
 number=number/10;
 System.Console.WriteLine(number%10);
